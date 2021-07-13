@@ -7,9 +7,9 @@ El objetivo de este proyecto es crear una api desde nuestro propio terminal. La 
 ## ESTRUCTURA. 
 
 ### Carpeta notebooks 
-####- Carpeta data
-    #Dentro de ellas hemos realizado una limpieza de aquello que posteriormente introduciremos en la base de sql. 
-    #Debido a la falta de tiempo he decidido decantarme por el script de la primera película de Harry Potter. 
+- Carpeta data
+    Dentro de ellas hemos realizado una limpieza de aquello que posteriormente introduciremos en la base de sql. 
+    Debido a la falta de tiempo he decidido decantarme por el script de la primera película de Harry Potter. 
 
 -GET_ID
     En este jupyter notebook hemos generado funciones para que el usuario pueda obtener la id del grupo a partir del nombre del grupo y la id del usuario a partir del nombre de usuario. Posteriormente esto nos resultara útil a la hora de ejecutar los endpoints de get. 
