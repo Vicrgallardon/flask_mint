@@ -1,6 +1,6 @@
-![foto_hp](https://user-images.githubusercontent.com/85116761/125535912-3d1f29a6-c48e-462f-a9d1-2174425bd5a5.jpeg)
-
 # W6-api-project
+
+![foto_hp](https://user-images.githubusercontent.com/85116761/125535912-3d1f29a6-c48e-462f-a9d1-2174425bd5a5.jpeg)
 
 El objetivo de este proyecto es crear una api desde nuestro propio terminal. La api debe ser capaz de recibir información y extraerla. 
 
